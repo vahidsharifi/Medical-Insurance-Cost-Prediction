@@ -1,0 +1,14 @@
+age: age of primary beneficiary
+
+sex: insurance contractor gender: female or male
+
+bmi: body mass index, providing an understanding of body, weights that are relatively high or low relative to height
+
+children: number of children covered by health insurance
+
+smoker: yes or no
+
+region: the payees' residential area in the US, northeast, southeast, southwest, northwest
+
+medicalCost: individual medical costs billed by medical insurance. 
+
